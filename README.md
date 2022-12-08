@@ -2,9 +2,8 @@
 - Name: Braxton Batty
 - Date: 12/08/2022
 - Description: This portfolio covers all the assignments I completed in ANLY 6100. This work was done in the fall semeseter of 2022. I hope you find the information to be accurate and insightful.
-## My Résumé
+## About Me
 - [Résumé](https://colab.research.google.com/drive/1cc8RTVbqhcEB1LvXHmM6m7A1JE_SMin1?usp=sharing)
-##Contact Information
 - [Email](braxtonbatty@suumail.net)
 - [LinkedIn](https://www.linkedin.com/in/braxton-batty-4670b7222)
 ## Table of Contents
