@@ -22,3 +22,6 @@
    
 6. **Module 6: Clustering and Segmentation**
    - A6 [Segmentation (Retail Transactions and Behavioral Segmentation)]
+
+7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
+    - A7 [Creating Assigmnent Portfolio]
