@@ -9,10 +9,10 @@
    - A1: Markdown CV
    
 2. **Module 2: Fundamentals of Programming for Data Analysis**
-   - A2: Programming Fundamentals
+   - A2: [Programming Fundamentals](https://colab.research.google.com/drive/1AmaaXybtYQ79mWHAyfoPiDQabZ9n60zE?usp=sharing
    
 3. **Module 3: Working with Data**
-   - A3: Work with data Yelp Reviews
+   - A3: [Work with data Yelp Reviews](https://drive.google.com/file/d/1HPDQYUQLQ2J5OmxSdlRz23kNfPto2uyh/view?usp=sharing)
   
 4. **Module 4: Stats review**
    - A4: [Hypothesis testing - FB ads and Starbucks promos](https://colab.research.google.com/drive/1c3frjw61oBVmxI-5fqANw5Zbo4B3Y2l6?usp=sharing)
@@ -24,4 +24,4 @@
    - A6: [Segmentation (Retail Transactions and Behavioral Segmentation)]
 
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - A7: [Creating Assigmnent Portfolio]
+    - A7: [Creating Assigmnent Portfolio](https://colab.research.google.com/drive/1uqzeN-4-cSFRcYYk6DtSnfR7g08QF3dT?usp=sharing)
