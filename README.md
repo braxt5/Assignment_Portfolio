@@ -25,4 +25,4 @@
    - A6: [Segmentation (Retail Transactions and Behavioral Segmentation)](https://colab.research.google.com/drive/1uqzeN-4-cSFRcYYk6DtSnfR7g08QF3dT?usp=sharing)
 
 ### **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - A7: [Creating Assigmnent Portfolio](https://github.com/braxt5/Assignment_Portfolio.git)
+   - A7: [Creating Assigmnent Portfolio](https://github.com/braxt5/Assignment_Portfolio.git)
