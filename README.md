@@ -6,7 +6,7 @@
 - [Résumé](https://colab.research.google.com/drive/1cc8RTVbqhcEB1LvXHmM6m7A1JE_SMin1?usp=sharing)
 - [Linkedin](https://www.linkedin.com/in/braxton-batty-4670b7222)
 ## Table of Contents
-1. **Module 1: Using Colab**
+### **Module 1: Using Colab**
    - A1: Markdown CV (Résumé)
    
 2. **Module 2: Fundamentals of Programming for Data Analysis**
